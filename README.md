@@ -16,7 +16,7 @@
 
 <p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
 
-<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/gpt_signIn.jpg"></p>/
 
 
 
