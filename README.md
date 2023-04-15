@@ -1,8 +1,8 @@
-# chatGPT-tutorial
+# chatGPT超神之路
 
 
 
-## 为什么要做chatGPT知识库的仓库，它有什么优势？
+## 为什么要做这个chatGPT知识库，它有什么优势？
 
 - 【更系统】世面上关于chatGPT的知识都太零散，不系统。此文档从gpt的基础原理、如何注册、使用技巧、如何开通plus、plus的优势及使用技巧、如何通过chatGPT变现等展开了详细的说明。
 - 【更贴合职业视角】笔者结合自己在工作中对chatGPT的真实经验，总结了一套对程序员提效的方法。当然对其他职业也有介绍使用技巧：如何在生活上提效，如何在搜索上提效等
@@ -13,6 +13,8 @@
 **文档在线地址（先收藏：每日更新中...）**：https://bwiny5w2svt.feishu.cn/wiki/wikcna5nxpcABwuqS7PZVSSZkng
 
 知识库列表预览：
+
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
 
 <p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
 
@@ -40,5 +42,5 @@ AI时代已经呼啸而来，没有坐上时代大潮车的人即将被时代淘
 ## 如何加入社群，如何联系博主？
 
 见下面微信：
-<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/wx.jpeg"></p>/
 
