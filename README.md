@@ -10,13 +10,14 @@
 - 【免费】世面上出现了很多培训的社群，年费 399-899元/位。可是很多都不是程序员出生，也不懂技术。就是为了蹭热度、宣传焦虑。
 
 
+
 **文档在线地址（先收藏：每日更新中...）**：https://bwiny5w2svt.feishu.cn/wiki/wikcna5nxpcABwuqS7PZVSSZkng
 
 知识库列表预览：
 
-<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>/
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/chatGPT_menu_view.jpg"></p>
 
-<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/gpt_signIn.jpg"></p>/
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/gpt_signIn.jpg"></p>
 
 
 
@@ -39,8 +40,9 @@ AI时代已经呼啸而来，没有坐上时代大潮车的人即将被时代淘
 - 【chatGPT plus 升级遇到问题】可以找群主代充，价格只要100多，比世面上的便宜。也节省自己的时间。
 
 
+
 ## 如何加入社群，如何联系博主？
 
 见下面微信：
-<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/wx.jpeg"></p>/
+<p><img src="https://raw.githubusercontent.com/tuihou123321/chatGPT-tutorial/main/images/wx.jpeg"></p>
 
